@@ -27,15 +27,15 @@ h4 {
 }
 
 h4.amiable {
-  background: linear-gradient(#e66465, #9198e5)
+  background: linear-gradient(to right, #FFF, #000);
 }
 
 h4.indifferent {
-  background: linear-gradient(#e66465, #9198e5)
+  background: linear-gradient(to right, #FFF, #000);
 }
 
 h4.dubious {
-  background: linear-gradient(#e66465, #9198e5)
+  background: linear-gradient(to right, #FFF, #000);
 }
 .amiable {
   border: 1px solid #22aa44;
